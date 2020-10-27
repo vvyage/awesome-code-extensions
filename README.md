@@ -18,6 +18,8 @@ A collection of awesome Visual Studio Code extensions for front end development.
 - [Path Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense) : Visual Studio Code plugin that autocompletes filenames
 - [TODO Highlight](https://marketplace.visualstudio.com/items?itemName=wayou.vscode-todo-highlight) : highlight TODOs, FIXMEs, and any keywords, annotations...
 - [View In Browser](https://marketplace.visualstudio.com/items?itemName=qinjia.view-in-browser) : view a html file in system's default browser
+- [Turbo Console Log](https://marketplace.visualstudio.com/items?itemName=ChakrounAnas.turbo-console-log) : Automating the process of writing meaningful log messages.
+
 
 ## Theme
 - [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme) : Material Design Icons for Visual Studio Code
