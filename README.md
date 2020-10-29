@@ -1,5 +1,5 @@
-# awesome-code-extensions
-A collection of awesome Visual Studio Code extensions for front end development.
+# vvyage.vscode-extensions
+A collection of Visual Studio Code extensions for front end development.
 
 ## Snippets & Linting & Format
 - [HTML Snippets](https://marketplace.visualstudio.com/items?itemName=abusaidm.html-snippets) : Full HTML tags including HTML5 Snippets
