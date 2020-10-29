@@ -1,9 +1,11 @@
 # awesome-code-extensions
 A collection of awesome Visual Studio Code extensions for front end development.
 
-## Snippets & Linting
+## Snippets & Linting & Format
 - [HTML Snippets](https://marketplace.visualstudio.com/items?itemName=abusaidm.html-snippets) : Full HTML tags including HTML5 Snippets
+- [JavaScript(ES6)code snippets](https://marketplace.visualstudio.com/items?itemName=xabikos.JavaScriptSnippets) : Code snippets for JavaScript in ES6 syntax
 - [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint) : Integrates ESLint JavaScript into VS Code.
+- [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode) : Code formatter using prettier
 - [Vetur](https://marketplace.visualstudio.com/items?itemName=octref.vetur) : Vue tooling for VS Code
 - [Vue 2 Snippets](https://marketplace.visualstudio.com/items?itemName=hollowtree.vue-snippets) : A Vue.js 2 Extension
 - [vue-helper](https://marketplace.visualstudio.com/items?itemName=shenjiaolong.vue-helper) : vue enhance，extension for Element-UI, VUX, IVIEW
@@ -17,9 +19,8 @@ A collection of awesome Visual Studio Code extensions for front end development.
 ## Utility
 - [Path Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense) : Visual Studio Code plugin that autocompletes filenames
 - [TODO Highlight](https://marketplace.visualstudio.com/items?itemName=wayou.vscode-todo-highlight) : highlight TODOs, FIXMEs, and any keywords, annotations...
-- [View In Browser](https://marketplace.visualstudio.com/items?itemName=qinjia.view-in-browser) : view a html file in system's default browser
 - [Turbo Console Log](https://marketplace.visualstudio.com/items?itemName=ChakrounAnas.turbo-console-log) : Automating the process of writing meaningful log messages.
-
+- [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) : Launch a development local Server with live reload feature for static & dynamic pages
 
 ## Theme
 - [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme) : Material Design Icons for Visual Studio Code
