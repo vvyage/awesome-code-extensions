@@ -16,3 +16,7 @@ A collection of Visual Studio Code extensions for front end development.
 ## Theme
 - [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme) : Material Design Icons for Visual Studio Code
 - [Cold Horizon Theme](https://marketplace.visualstudio.com/items?itemName=vincentfiestada.cold-horizon-vscode) : Horizon Theme in cold color
+
+## Utility
+- [TODO Highlight](https://marketplace.visualstudio.com/items?itemName=Gruntfuggly.todo-tree) : Todo highlight
+- [SVG Viewer](https://marketplace.visualstudio.com/items?itemName=cssho.vscode-svgviewer) : Preview SVG in new tab
